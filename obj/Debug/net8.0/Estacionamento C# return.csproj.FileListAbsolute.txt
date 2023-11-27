@@ -1,0 +1,14 @@
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Estacionamento C# return\bin\Debug\net8.0\Estacionamento C# return.exe
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Estacionamento C# return\bin\Debug\net8.0\Estacionamento C# return.deps.json
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Estacionamento C# return\bin\Debug\net8.0\Estacionamento C# return.runtimeconfig.json
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Estacionamento C# return\bin\Debug\net8.0\Estacionamento C# return.dll
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Estacionamento C# return\bin\Debug\net8.0\Estacionamento C# return.pdb
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Estacionamento C# return\obj\Debug\net8.0\Estacionamento C# return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Estacionamento C# return\obj\Debug\net8.0\Estacionamento C# return.AssemblyInfoInputs.cache
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Estacionamento C# return\obj\Debug\net8.0\Estacionamento C# return.AssemblyInfo.cs
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Estacionamento C# return\obj\Debug\net8.0\Estacionamento C# return.csproj.CoreCompileInputs.cache
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Estacionamento C# return\obj\Debug\net8.0\Estacionamento C# return.dll
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Estacionamento C# return\obj\Debug\net8.0\refint\Estacionamento C# return.dll
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Estacionamento C# return\obj\Debug\net8.0\Estacionamento C# return.pdb
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Estacionamento C# return\obj\Debug\net8.0\Estacionamento C# return.genruntimeconfig.cache
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Estacionamento C# return\obj\Debug\net8.0\ref\Estacionamento C# return.dll
